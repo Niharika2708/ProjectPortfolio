@@ -60,7 +60,7 @@ export default function Project() {
       </section>
 
       <section className={"button"}>
-        <a href="https://github.com/Niharika2708/FlavourVault.git" target="_blank" rel="noopener noreferrer">
+        <a href="https://niharika2708.github.io/FlavourVault/" target="_blank" rel="noopener noreferrer">
           Project is Live here
         </a>
       </section>
